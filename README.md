@@ -1,3 +1,5 @@
+![logo](https://github.com/deepikadhameja10/deepikadhameja10/blob/main/github%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Deepika</h1>
 <h3 align="center">I am Passionate learner, techie , student from India</h3>
 <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" align="right" width="400px"/>
